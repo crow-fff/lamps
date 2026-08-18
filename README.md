@@ -4,6 +4,9 @@ Radiolaria-inspired lamp generator built as a Three.js single-page app.
 
 ## Run locally
 
+Use Node.js 24 or newer. If you use nvm, run `nvm use` to select the version
+specified by `.nvmrc`.
+
 ```bash
 npm install
 npm run dev
